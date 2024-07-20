@@ -5,9 +5,7 @@ export default function Head() {
         <meta name="description" content="An example PWA Camera App" />
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#000000" />
-        <link rel="apple-touch-icon" href="/icons/icon-192x192.png" />
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        
+        <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
       </>
     );
   }
